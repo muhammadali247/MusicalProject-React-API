@@ -1,0 +1,185 @@
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\obj\Debug\net6.0\MusicApp.WebApi.csproj.AssemblyReference.cache
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\obj\Debug\net6.0\MusicApp.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\obj\Debug\net6.0\MusicApp.WebApi.AssemblyInfoInputs.cache
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\obj\Debug\net6.0\MusicApp.WebApi.AssemblyInfo.cs
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\obj\Debug\net6.0\MusicApp.WebApi.csproj.CoreCompileInputs.cache
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\obj\Debug\net6.0\MusicApp.WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\appsettings.Development.json
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\appsettings.json
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\MusicApp.WebApi.staticwebassets.runtime.json
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\MusicApp.WebApi.exe
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\MusicApp.WebApi.deps.json
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\MusicApp.WebApi.runtimeconfig.json
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\MusicApp.WebApi.dll
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\MusicApp.WebApi.pdb
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\AutoMapper.dll
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\FluentValidation.dll
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\Humanizer.dll
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\MediatR.dll
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\MediatR.Contracts.dll
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\MusicApp.Application.dll
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\MusicApp.Domain.dll
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\MusicApp.Infrastructure.dll
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\MusicApp.Persistence.dll
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\MusicApp.Application.pdb
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\MusicApp.Infrastructure.pdb
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\MusicApp.Persistence.pdb
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\MusicApp.Domain.pdb
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\obj\Debug\net6.0\scopedcss\bundle\MusicApp.WebApi.styles.css
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\obj\Debug\net6.0\MusicApp.WebApi.csproj.CopyComplete
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\obj\Debug\net6.0\MusicApp.WebApi.dll
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\obj\Debug\net6.0\refint\MusicApp.WebApi.dll
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\obj\Debug\net6.0\MusicApp.WebApi.pdb
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\obj\Debug\net6.0\MusicApp.WebApi.genruntimeconfig.cache
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\obj\Debug\net6.0\ref\MusicApp.WebApi.dll
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\obj\Debug\net6.0\MusicApp.WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\MailKit.dll
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\MimeKit.dll
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\System.Formats.Asn1.dll
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\appsettings.json
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\MusicApp.WebApi.staticwebassets.runtime.json
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\MusicApp.WebApi.exe
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\MusicApp.WebApi.deps.json
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\MusicApp.WebApi.runtimeconfig.json
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\MusicApp.WebApi.dll
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\MusicApp.WebApi.pdb
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\MailKit.dll
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\MediatR.dll
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\MimeKit.dll
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\System.Formats.Asn1.dll
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\MusicApp.Application.dll
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\MusicApp.Domain.dll
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\MusicApp.Infrastructure.dll
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\MusicApp.Persistence.dll
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\MusicApp.Application.pdb
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\MusicApp.Infrastructure.pdb
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\MusicApp.Persistence.pdb
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\bin\Debug\net6.0\MusicApp.Domain.pdb
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\obj\Debug\net6.0\MusicApp.WebApi.csproj.AssemblyReference.cache
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\obj\Debug\net6.0\MusicApp.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\obj\Debug\net6.0\MusicApp.WebApi.AssemblyInfoInputs.cache
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\obj\Debug\net6.0\MusicApp.WebApi.AssemblyInfo.cs
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\obj\Debug\net6.0\MusicApp.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\obj\Debug\net6.0\MusicApp.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\obj\Debug\net6.0\MusicApp.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.MusicApp.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.MusicApp.WebApi.props
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MusicApp.WebApi.props
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MusicApp.WebApi.props
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\obj\Debug\net6.0\scopedcss\bundle\MusicApp.WebApi.styles.css
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\obj\Debug\net6.0\MusicApp.WebApi.csproj.CopyComplete
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\obj\Debug\net6.0\MusicApp.WebApi.dll
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\obj\Debug\net6.0\refint\MusicApp.WebApi.dll
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\obj\Debug\net6.0\MusicApp.WebApi.pdb
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\obj\Debug\net6.0\MusicApp.WebApi.genruntimeconfig.cache
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.WebApi\obj\Debug\net6.0\ref\MusicApp.WebApi.dll

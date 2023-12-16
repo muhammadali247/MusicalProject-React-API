@@ -1,0 +1,417 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\Zaka\\FP_BackUp\\MusicApp\\MusicApp.WebApi\\MusicApp.WebApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\Zaka\\FP_BackUp\\MusicApp\\MusicApp.Application\\MusicApp.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\Zaka\\FP_BackUp\\MusicApp\\MusicApp.Application\\MusicApp.Application.csproj",
+        "projectName": "MusicApp.Application",
+        "projectPath": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\Zaka\\FP_BackUp\\MusicApp\\MusicApp.Application\\MusicApp.Application.csproj",
+        "packagesPath": "C:\\Users\\magoo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\Zaka\\FP_BackUp\\MusicApp\\MusicApp.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\magoo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\Zaka\\FP_BackUp\\MusicApp\\MusicApp.Domain\\MusicApp.Domain.csproj": {
+                "projectPath": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\Zaka\\FP_BackUp\\MusicApp\\MusicApp.Domain\\MusicApp.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.6.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\Zaka\\FP_BackUp\\MusicApp\\MusicApp.Domain\\MusicApp.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\Zaka\\FP_BackUp\\MusicApp\\MusicApp.Domain\\MusicApp.Domain.csproj",
+        "projectName": "MusicApp.Domain",
+        "projectPath": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\Zaka\\FP_BackUp\\MusicApp\\MusicApp.Domain\\MusicApp.Domain.csproj",
+        "packagesPath": "C:\\Users\\magoo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\Zaka\\FP_BackUp\\MusicApp\\MusicApp.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\magoo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\Zaka\\FP_BackUp\\MusicApp\\MusicApp.Infrastructure\\MusicApp.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\Zaka\\FP_BackUp\\MusicApp\\MusicApp.Infrastructure\\MusicApp.Infrastructure.csproj",
+        "projectName": "MusicApp.Infrastructure",
+        "projectPath": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\Zaka\\FP_BackUp\\MusicApp\\MusicApp.Infrastructure\\MusicApp.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\magoo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\Zaka\\FP_BackUp\\MusicApp\\MusicApp.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\magoo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\Zaka\\FP_BackUp\\MusicApp\\MusicApp.Application\\MusicApp.Application.csproj": {
+                "projectPath": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\Zaka\\FP_BackUp\\MusicApp\\MusicApp.Application\\MusicApp.Application.csproj"
+              },
+              "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\Zaka\\FP_BackUp\\MusicApp\\MusicApp.Persistence\\MusicApp.Persistence.csproj": {
+                "projectPath": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\Zaka\\FP_BackUp\\MusicApp\\MusicApp.Persistence\\MusicApp.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MailKit": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.32.2, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.32.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\Zaka\\FP_BackUp\\MusicApp\\MusicApp.Persistence\\MusicApp.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\Zaka\\FP_BackUp\\MusicApp\\MusicApp.Persistence\\MusicApp.Persistence.csproj",
+        "projectName": "MusicApp.Persistence",
+        "projectPath": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\Zaka\\FP_BackUp\\MusicApp\\MusicApp.Persistence\\MusicApp.Persistence.csproj",
+        "packagesPath": "C:\\Users\\magoo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\Zaka\\FP_BackUp\\MusicApp\\MusicApp.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\magoo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\Zaka\\FP_BackUp\\MusicApp\\MusicApp.Application\\MusicApp.Application.csproj": {
+                "projectPath": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\Zaka\\FP_BackUp\\MusicApp\\MusicApp.Application\\MusicApp.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\Zaka\\FP_BackUp\\MusicApp\\MusicApp.WebApi\\MusicApp.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\Zaka\\FP_BackUp\\MusicApp\\MusicApp.WebApi\\MusicApp.WebApi.csproj",
+        "projectName": "MusicApp.WebApi",
+        "projectPath": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\Zaka\\FP_BackUp\\MusicApp\\MusicApp.WebApi\\MusicApp.WebApi.csproj",
+        "packagesPath": "C:\\Users\\magoo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\Zaka\\FP_BackUp\\MusicApp\\MusicApp.WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\magoo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\Zaka\\FP_BackUp\\MusicApp\\MusicApp.Application\\MusicApp.Application.csproj": {
+                "projectPath": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\Zaka\\FP_BackUp\\MusicApp\\MusicApp.Application\\MusicApp.Application.csproj"
+              },
+              "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\Zaka\\FP_BackUp\\MusicApp\\MusicApp.Infrastructure\\MusicApp.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\Zaka\\FP_BackUp\\MusicApp\\MusicApp.Infrastructure\\MusicApp.Infrastructure.csproj"
+              },
+              "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\Zaka\\FP_BackUp\\MusicApp\\MusicApp.Persistence\\MusicApp.Persistence.csproj": {
+                "projectPath": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\Zaka\\FP_BackUp\\MusicApp\\MusicApp.Persistence\\MusicApp.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.Google": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

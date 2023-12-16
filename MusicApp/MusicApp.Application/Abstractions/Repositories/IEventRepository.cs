@@ -1,0 +1,14 @@
+﻿using MusicApp.Domain.Entities;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace MusicApp.Application.Abstractions.Repositories;
+
+public interface IEventRepository : IGenericRepository<Event>
+{
+    Task<List<Event>> GetAllDetailedAsync();
+    Task<Event> GetByIdDetailedAsync(Guid id);
+}

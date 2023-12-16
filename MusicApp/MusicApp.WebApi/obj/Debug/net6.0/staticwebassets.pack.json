@@ -1,0 +1,193 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\Zaka\\FP_BackUp\\MusicApp\\MusicApp.WebApi\\wwwroot\\images\\albums\\08ee7a50-da34-40be-9b47-5e285b811c04_leprous_aphelion1.jpg",
+      "PackagePath": "staticwebassets\\images\\albums\\08ee7a50-da34-40be-9b47-5e285b811c04_leprous_aphelion1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\Zaka\\FP_BackUp\\MusicApp\\MusicApp.WebApi\\wwwroot\\images\\albums\\1701bd95-f10d-44b4-8bff-d4d65256c2c4_baroness_gold_cover.jpg",
+      "PackagePath": "staticwebassets\\images\\albums\\1701bd95-f10d-44b4-8bff-d4d65256c2c4_baroness_gold_cover.jpg"
+    },
+    {
+      "Id": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\Zaka\\FP_BackUp\\MusicApp\\MusicApp.WebApi\\wwwroot\\images\\albums\\177ed35a-f6d9-46a6-a1d7-ac899ab695c4_leprous_bilateral_cover.jpg",
+      "PackagePath": "staticwebassets\\images\\albums\\177ed35a-f6d9-46a6-a1d7-ac899ab695c4_leprous_bilateral_cover.jpg"
+    },
+    {
+      "Id": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\Zaka\\FP_BackUp\\MusicApp\\MusicApp.WebApi\\wwwroot\\images\\albums\\1a4b53a6-7c32-4955-be66-7b796601eb23_leprous_malina_cover.jpg",
+      "PackagePath": "staticwebassets\\images\\albums\\1a4b53a6-7c32-4955-be66-7b796601eb23_leprous_malina_cover.jpg"
+    },
+    {
+      "Id": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\Zaka\\FP_BackUp\\MusicApp\\MusicApp.WebApi\\wwwroot\\images\\albums\\1b59d07d-8e71-4a45-badc-8766f07a5893_leprous_bilateral1.jpg",
+      "PackagePath": "staticwebassets\\images\\albums\\1b59d07d-8e71-4a45-badc-8766f07a5893_leprous_bilateral1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\Zaka\\FP_BackUp\\MusicApp\\MusicApp.WebApi\\wwwroot\\images\\albums\\33c5716f-450d-419b-a40a-5e09435ad031_baroness_blue_cover.jpg",
+      "PackagePath": "staticwebassets\\images\\albums\\33c5716f-450d-419b-a40a-5e09435ad031_baroness_blue_cover.jpg"
+    },
+    {
+      "Id": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\Zaka\\FP_BackUp\\MusicApp\\MusicApp.WebApi\\wwwroot\\images\\albums\\4573010a-5c10-465c-a330-de8e2040a1c6_baroness_red_cover.jpg",
+      "PackagePath": "staticwebassets\\images\\albums\\4573010a-5c10-465c-a330-de8e2040a1c6_baroness_red_cover.jpg"
+    },
+    {
+      "Id": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\Zaka\\FP_BackUp\\MusicApp\\MusicApp.WebApi\\wwwroot\\images\\albums\\5933fb56-7459-43e9-8176-92d6bdba1d52_baroness_yellow1.jpg",
+      "PackagePath": "staticwebassets\\images\\albums\\5933fb56-7459-43e9-8176-92d6bdba1d52_baroness_yellow1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\Zaka\\FP_BackUp\\MusicApp\\MusicApp.WebApi\\wwwroot\\images\\albums\\6c80739b-f265-41d7-8b15-b516621f16b4_baroness_blue1.jpg",
+      "PackagePath": "staticwebassets\\images\\albums\\6c80739b-f265-41d7-8b15-b516621f16b4_baroness_blue1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\Zaka\\FP_BackUp\\MusicApp\\MusicApp.WebApi\\wwwroot\\images\\albums\\6e017022-0460-4c31-b35a-b5ea33f182e8_baroness_yellow2.jpg",
+      "PackagePath": "staticwebassets\\images\\albums\\6e017022-0460-4c31-b35a-b5ea33f182e8_baroness_yellow2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\Zaka\\FP_BackUp\\MusicApp\\MusicApp.WebApi\\wwwroot\\images\\albums\\6f26fd23-34ee-443f-976d-39745e0ed113_leprous_poppy2.jpg",
+      "PackagePath": "staticwebassets\\images\\albums\\6f26fd23-34ee-443f-976d-39745e0ed113_leprous_poppy2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\Zaka\\FP_BackUp\\MusicApp\\MusicApp.WebApi\\wwwroot\\images\\albums\\80d3318a-caa0-42b1-84a5-bf8e9f043703_leprous_poppy1.jpg",
+      "PackagePath": "staticwebassets\\images\\albums\\80d3318a-caa0-42b1-84a5-bf8e9f043703_leprous_poppy1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\Zaka\\FP_BackUp\\MusicApp\\MusicApp.WebApi\\wwwroot\\images\\albums\\943be8a9-bc51-4c62-8f01-c58d5e680ee8_leprous_pitfalls1.jpg",
+      "PackagePath": "staticwebassets\\images\\albums\\943be8a9-bc51-4c62-8f01-c58d5e680ee8_leprous_pitfalls1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\Zaka\\FP_BackUp\\MusicApp\\MusicApp.WebApi\\wwwroot\\images\\albums\\9e3a0b99-ec23-42bd-aec6-8055efbaff31_baroness_blue2.jpg",
+      "PackagePath": "staticwebassets\\images\\albums\\9e3a0b99-ec23-42bd-aec6-8055efbaff31_baroness_blue2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\Zaka\\FP_BackUp\\MusicApp\\MusicApp.WebApi\\wwwroot\\images\\albums\\9f618452-4c36-44f5-8759-b070d4f5f16b_leprous_pitfalls_cover.jpg",
+      "PackagePath": "staticwebassets\\images\\albums\\9f618452-4c36-44f5-8759-b070d4f5f16b_leprous_pitfalls_cover.jpg"
+    },
+    {
+      "Id": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\Zaka\\FP_BackUp\\MusicApp\\MusicApp.WebApi\\wwwroot\\images\\albums\\a1ef0a76-9109-4507-86f6-eb6d941eea5f_baroness_red1.JPG",
+      "PackagePath": "staticwebassets\\images\\albums\\a1ef0a76-9109-4507-86f6-eb6d941eea5f_baroness_red1.JPG"
+    },
+    {
+      "Id": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\Zaka\\FP_BackUp\\MusicApp\\MusicApp.WebApi\\wwwroot\\images\\albums\\a5244922-9a7f-431f-aa8a-1236fe6e189c_leprous_coal_cover.jpg",
+      "PackagePath": "staticwebassets\\images\\albums\\a5244922-9a7f-431f-aa8a-1236fe6e189c_leprous_coal_cover.jpg"
+    },
+    {
+      "Id": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\Zaka\\FP_BackUp\\MusicApp\\MusicApp.WebApi\\wwwroot\\images\\albums\\ad3014a8-2fe2-4951-a13d-b3b5f19a6b30_leprous_aphelion2.jpg",
+      "PackagePath": "staticwebassets\\images\\albums\\ad3014a8-2fe2-4951-a13d-b3b5f19a6b30_leprous_aphelion2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\Zaka\\FP_BackUp\\MusicApp\\MusicApp.WebApi\\wwwroot\\images\\albums\\afd83d2e-942f-45e8-acad-8c90cd0608ae_leprous_aphelion_cover.jpg",
+      "PackagePath": "staticwebassets\\images\\albums\\afd83d2e-942f-45e8-acad-8c90cd0608ae_leprous_aphelion_cover.jpg"
+    },
+    {
+      "Id": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\Zaka\\FP_BackUp\\MusicApp\\MusicApp.WebApi\\wwwroot\\images\\albums\\bec1e423-1732-4e92-94dc-eb97d312e959_leprous_congregation_cover.jpg",
+      "PackagePath": "staticwebassets\\images\\albums\\bec1e423-1732-4e92-94dc-eb97d312e959_leprous_congregation_cover.jpg"
+    },
+    {
+      "Id": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\Zaka\\FP_BackUp\\MusicApp\\MusicApp.WebApi\\wwwroot\\images\\albums\\c6ce93a1-8699-435b-b563-46a44c6bad69_baroness_red2.JPG",
+      "PackagePath": "staticwebassets\\images\\albums\\c6ce93a1-8699-435b-b563-46a44c6bad69_baroness_red2.JPG"
+    },
+    {
+      "Id": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\Zaka\\FP_BackUp\\MusicApp\\MusicApp.WebApi\\wwwroot\\images\\albums\\c70c3736-771d-4d2e-ad3c-d2ad902c5214_leprous_congregation1.jpg",
+      "PackagePath": "staticwebassets\\images\\albums\\c70c3736-771d-4d2e-ad3c-d2ad902c5214_leprous_congregation1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\Zaka\\FP_BackUp\\MusicApp\\MusicApp.WebApi\\wwwroot\\images\\albums\\d67d37df-3fb7-4c83-b397-61f47e7ee340_baroness_purple_cover.jpg",
+      "PackagePath": "staticwebassets\\images\\albums\\d67d37df-3fb7-4c83-b397-61f47e7ee340_baroness_purple_cover.jpg"
+    },
+    {
+      "Id": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\Zaka\\FP_BackUp\\MusicApp\\MusicApp.WebApi\\wwwroot\\images\\albums\\daf06d2a-02d6-455e-b268-c14a342a14f3_leprous_poppy3.jpg",
+      "PackagePath": "staticwebassets\\images\\albums\\daf06d2a-02d6-455e-b268-c14a342a14f3_leprous_poppy3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\Zaka\\FP_BackUp\\MusicApp\\MusicApp.WebApi\\wwwroot\\images\\albums\\ef6b2802-b69f-425b-ab14-4cea306277bc_baroness_yellow_cover.png",
+      "PackagePath": "staticwebassets\\images\\albums\\ef6b2802-b69f-425b-ab14-4cea306277bc_baroness_yellow_cover.png"
+    },
+    {
+      "Id": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\Zaka\\FP_BackUp\\MusicApp\\MusicApp.WebApi\\wwwroot\\images\\albums\\f9c044ae-041d-4944-a9e2-f1915a4bea36_leprous_coal1.jpg",
+      "PackagePath": "staticwebassets\\images\\albums\\f9c044ae-041d-4944-a9e2-f1915a4bea36_leprous_coal1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\Zaka\\FP_BackUp\\MusicApp\\MusicApp.WebApi\\wwwroot\\images\\albums\\l5e526aff-2722-45e0-9e85-88b2cd990f81_leprous_poppy_cover.jpg",
+      "PackagePath": "staticwebassets\\images\\albums\\l5e526aff-2722-45e0-9e85-88b2cd990f81_leprous_poppy_cover.jpg"
+    },
+    {
+      "Id": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\Zaka\\FP_BackUp\\MusicApp\\MusicApp.WebApi\\wwwroot\\images\\events\\06c7de89-7924-4aef-91a7-920045c2c683_carousel1.jpg",
+      "PackagePath": "staticwebassets\\images\\events\\06c7de89-7924-4aef-91a7-920045c2c683_carousel1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\Zaka\\FP_BackUp\\MusicApp\\MusicApp.WebApi\\wwwroot\\images\\events\\23508b76-4757-4412-b0b1-84dde3cc7a29_a3507361285_10.jpg",
+      "PackagePath": "staticwebassets\\images\\events\\23508b76-4757-4412-b0b1-84dde3cc7a29_a3507361285_10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\Zaka\\FP_BackUp\\MusicApp\\MusicApp.WebApi\\wwwroot\\images\\events\\26d5be60-ff54-4881-b091-8f5a15738825_carousel1.jpg",
+      "PackagePath": "staticwebassets\\images\\events\\26d5be60-ff54-4881-b091-8f5a15738825_carousel1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\Zaka\\FP_BackUp\\MusicApp\\MusicApp.WebApi\\wwwroot\\images\\events\\28bdf2a5-1f66-4b4c-a2f8-624275f9a83d_carousel1.jpg",
+      "PackagePath": "staticwebassets\\images\\events\\28bdf2a5-1f66-4b4c-a2f8-624275f9a83d_carousel1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\Zaka\\FP_BackUp\\MusicApp\\MusicApp.WebApi\\wwwroot\\images\\events\\2e0eb2fc-043c-445b-a5d8-5b336f3e396a_carousel1.jpg",
+      "PackagePath": "staticwebassets\\images\\events\\2e0eb2fc-043c-445b-a5d8-5b336f3e396a_carousel1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\Zaka\\FP_BackUp\\MusicApp\\MusicApp.WebApi\\wwwroot\\images\\events\\3e17b0a2-a31a-49be-82bf-68b4fd8ba73e_carousel2.jpg",
+      "PackagePath": "staticwebassets\\images\\events\\3e17b0a2-a31a-49be-82bf-68b4fd8ba73e_carousel2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\Zaka\\FP_BackUp\\MusicApp\\MusicApp.WebApi\\wwwroot\\images\\events\\487794a0-0fed-4f3d-ac06-35856da6aa44_deadwing-album-cover-ai-uncropped-v0-esq9csk54yf91.jpg",
+      "PackagePath": "staticwebassets\\images\\events\\487794a0-0fed-4f3d-ac06-35856da6aa44_deadwing-album-cover-ai-uncropped-v0-esq9csk54yf91.jpg"
+    },
+    {
+      "Id": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\Zaka\\FP_BackUp\\MusicApp\\MusicApp.WebApi\\wwwroot\\images\\events\\58e11ccb-4c4d-4f53-8950-d288de6aa417_carousel1.jpg",
+      "PackagePath": "staticwebassets\\images\\events\\58e11ccb-4c4d-4f53-8950-d288de6aa417_carousel1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\Zaka\\FP_BackUp\\MusicApp\\MusicApp.WebApi\\wwwroot\\images\\events\\784c3cc2-9593-4ff4-aa91-202e200533fa_carousel1.jpg",
+      "PackagePath": "staticwebassets\\images\\events\\784c3cc2-9593-4ff4-aa91-202e200533fa_carousel1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\Zaka\\FP_BackUp\\MusicApp\\MusicApp.WebApi\\wwwroot\\images\\events\\bcfc7581-43e6-45ba-924f-122a8556b0e3_deadwing-album-cover-ai-uncropped-v0-esq9csk54yf91.jpg",
+      "PackagePath": "staticwebassets\\images\\events\\bcfc7581-43e6-45ba-924f-122a8556b0e3_deadwing-album-cover-ai-uncropped-v0-esq9csk54yf91.jpg"
+    },
+    {
+      "Id": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\Zaka\\FP_BackUp\\MusicApp\\MusicApp.WebApi\\wwwroot\\images\\events\\ceadd61f-9454-4867-ae24-93e27e751db8_deadwing-album-cover-ai-uncropped-v0-esq9csk54yf91.jpg",
+      "PackagePath": "staticwebassets\\images\\events\\ceadd61f-9454-4867-ae24-93e27e751db8_deadwing-album-cover-ai-uncropped-v0-esq9csk54yf91.jpg"
+    },
+    {
+      "Id": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\Zaka\\FP_BackUp\\MusicApp\\MusicApp.WebApi\\wwwroot\\images\\events\\db95ffbb-43c2-4e40-8d1b-0230e44749f5_a3507361285_10.jpg",
+      "PackagePath": "staticwebassets\\images\\events\\db95ffbb-43c2-4e40-8d1b-0230e44749f5_a3507361285_10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\Zaka\\FP_BackUp\\MusicApp\\MusicApp.WebApi\\wwwroot\\images\\events\\f0bb6f07-0ae4-47ca-a81f-dbe823408b4c_carousel2.jpg",
+      "PackagePath": "staticwebassets\\images\\events\\f0bb6f07-0ae4-47ca-a81f-dbe823408b4c_carousel2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\Zaka\\FP_BackUp\\MusicApp\\MusicApp.WebApi\\wwwroot\\images\\users\\27f92465-9bfb-4c22-95b1-3efc30e569fe_user1.jpg",
+      "PackagePath": "staticwebassets\\images\\users\\27f92465-9bfb-4c22-95b1-3efc30e569fe_user1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\Zaka\\FP_BackUp\\MusicApp\\MusicApp.WebApi\\wwwroot\\templates\\forgotPassword.html",
+      "PackagePath": "staticwebassets\\templates\\forgotPassword.html"
+    },
+    {
+      "Id": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\Zaka\\FP_BackUp\\MusicApp\\MusicApp.WebApi\\wwwroot\\templates\\verify.html",
+      "PackagePath": "staticwebassets\\templates\\verify.html"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.MusicApp.WebApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.MusicApp.WebApi.props",
+      "PackagePath": "build\\MusicApp.WebApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.MusicApp.WebApi.props",
+      "PackagePath": "buildMultiTargeting\\MusicApp.WebApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.MusicApp.WebApi.props",
+      "PackagePath": "buildTransitive\\MusicApp.WebApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

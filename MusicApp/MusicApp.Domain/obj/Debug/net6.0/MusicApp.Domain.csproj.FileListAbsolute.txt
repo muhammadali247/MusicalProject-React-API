@@ -1,0 +1,24 @@
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.Domain\bin\Debug\net6.0\MusicApp.Domain.deps.json
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.Domain\bin\Debug\net6.0\MusicApp.Domain.dll
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.Domain\bin\Debug\net6.0\MusicApp.Domain.pdb
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.Domain\obj\Debug\net6.0\MusicApp.Domain.csproj.AssemblyReference.cache
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.Domain\obj\Debug\net6.0\MusicApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.Domain\obj\Debug\net6.0\MusicApp.Domain.AssemblyInfoInputs.cache
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.Domain\obj\Debug\net6.0\MusicApp.Domain.AssemblyInfo.cs
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.Domain\obj\Debug\net6.0\MusicApp.Domain.csproj.CoreCompileInputs.cache
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.Domain\obj\Debug\net6.0\MusicApp.Domain.dll
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.Domain\obj\Debug\net6.0\refint\MusicApp.Domain.dll
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.Domain\obj\Debug\net6.0\MusicApp.Domain.pdb
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.Domain\obj\Debug\net6.0\ref\MusicApp.Domain.dll
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.Domain\bin\Debug\net6.0\MusicApp.Domain.deps.json
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.Domain\bin\Debug\net6.0\MusicApp.Domain.dll
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.Domain\bin\Debug\net6.0\MusicApp.Domain.pdb
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.Domain\obj\Debug\net6.0\MusicApp.Domain.csproj.AssemblyReference.cache
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.Domain\obj\Debug\net6.0\MusicApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.Domain\obj\Debug\net6.0\MusicApp.Domain.AssemblyInfoInputs.cache
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.Domain\obj\Debug\net6.0\MusicApp.Domain.AssemblyInfo.cs
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.Domain\obj\Debug\net6.0\MusicApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.Domain\obj\Debug\net6.0\MusicApp.Domain.dll
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.Domain\obj\Debug\net6.0\refint\MusicApp.Domain.dll
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.Domain\obj\Debug\net6.0\MusicApp.Domain.pdb
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.Domain\obj\Debug\net6.0\ref\MusicApp.Domain.dll

@@ -1,0 +1,39 @@
+.root {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+  background-color: #141b2d;
+}
+.root svg {
+  width: 50%;
+  max-width: 450px;
+  min-width: 200px;
+}
+@media (max-width: 1200px) {
+  .root svg {
+    width: 60%;
+  }
+}
+@media (max-width: 992px) {
+  .root svg {
+    width: 70%;
+  }
+}
+@media (max-width: 768px) {
+  .root svg {
+    width: 80%;
+  }
+}
+@media (max-width: 576px) {
+  .root svg {
+    width: 90%;
+  }
+}
+.root h1, .root h2 {
+  text-align: center;
+  width: 100%;
+  margin: 10px 0;
+  color: white;
+}

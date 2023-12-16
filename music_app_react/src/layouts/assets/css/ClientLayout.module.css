@@ -1,0 +1,6 @@
+.root {
+  box-sizing: border-box !important;
+  overflow: hidden !important;
+  height: 100vh !important;
+  background-color: #F0EBF4;
+}

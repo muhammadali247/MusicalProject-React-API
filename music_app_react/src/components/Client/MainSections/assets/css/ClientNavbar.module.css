@@ -1,0 +1,9 @@
+.navbar {
+  background: rgb(180, 58, 58);
+  background: linear-gradient(90deg, rgb(180, 58, 58) 2%, rgb(49, 49, 116) 32%, rgb(105, 0, 161) 72%, rgb(117, 33, 193) 100%, rgb(180, 58, 58) 100%);
+}
+
+.outlinedButton {
+  background-color: rgba(65, 62, 120, 0.6) !important;
+  color: white !important;
+}

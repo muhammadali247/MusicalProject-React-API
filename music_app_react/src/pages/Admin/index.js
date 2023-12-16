@@ -1,0 +1,16 @@
+export { default as Dashboard } from "./Dashboard/Dashboard";
+export { default as Artists } from "./Artists/Artists";
+export { default as ArtistCreateForm } from "./Artists/ArtistCreateForm";
+export { default as ArtistDetailsForm } from "./Artists/ArtistDetailsForm";
+export { default as ArtistUpdateForm } from "./Artists/ArtistUpdateForm";
+export { default as Albums } from "./Albums/Albums";
+export { default as Songs } from "./Songs/Songs";
+export { default as Events } from "./Events/Events";
+export { default as EventsCreateForm } from "./Events/EventsCreateForm";
+export { default as Tickets } from "./Tickets/Tickets";
+export { default as MusicalProjects } from "./MusicalProjects/MusicalProjects";
+export { default as Users } from "./Users/Users";
+export { default as UsersDetailsForm } from "./Users/UsersDetailsForm";
+export { default as Roles } from "./Roles/Roles";
+export { default as Error404 } from "./Errors/Error404/Error404";
+export { default as Error500 } from "./Errors/Error500/Error500";

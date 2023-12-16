@@ -1,0 +1,38 @@
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.Infrastructure\bin\Debug\net6.0\MusicApp.Infrastructure.deps.json
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.Infrastructure\bin\Debug\net6.0\MusicApp.Infrastructure.dll
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.Infrastructure\bin\Debug\net6.0\MusicApp.Infrastructure.pdb
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.Infrastructure\obj\Debug\net6.0\MusicApp.Infrastructure.csproj.AssemblyReference.cache
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.Infrastructure\obj\Debug\net6.0\MusicApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.Infrastructure\obj\Debug\net6.0\MusicApp.Infrastructure.AssemblyInfoInputs.cache
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.Infrastructure\obj\Debug\net6.0\MusicApp.Infrastructure.AssemblyInfo.cs
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.Infrastructure\obj\Debug\net6.0\MusicApp.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.Infrastructure\obj\Debug\net6.0\MusicApp.Infrastructure.dll
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.Infrastructure\obj\Debug\net6.0\refint\MusicApp.Infrastructure.dll
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.Infrastructure\obj\Debug\net6.0\MusicApp.Infrastructure.pdb
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.Infrastructure\obj\Debug\net6.0\ref\MusicApp.Infrastructure.dll
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.Infrastructure\bin\Debug\net6.0\MusicApp.Application.dll
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.Infrastructure\bin\Debug\net6.0\MusicApp.Domain.dll
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.Infrastructure\bin\Debug\net6.0\MusicApp.Application.pdb
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.Infrastructure\bin\Debug\net6.0\MusicApp.Domain.pdb
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.Infrastructure\obj\Debug\net6.0\MusicApp.Infrastructure.csproj.CopyComplete
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.Infrastructure\bin\Debug\net6.0\MusicApp.Persistence.dll
+D:\Computer Science (Main)\Code Academy\FP_Clean\MusicApp\MusicApp.Infrastructure\bin\Debug\net6.0\MusicApp.Persistence.pdb
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.Infrastructure\bin\Debug\net6.0\MusicApp.Infrastructure.deps.json
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.Infrastructure\bin\Debug\net6.0\MusicApp.Infrastructure.dll
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.Infrastructure\bin\Debug\net6.0\MusicApp.Infrastructure.pdb
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.Infrastructure\bin\Debug\net6.0\MusicApp.Application.dll
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.Infrastructure\bin\Debug\net6.0\MusicApp.Domain.dll
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.Infrastructure\bin\Debug\net6.0\MusicApp.Persistence.dll
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.Infrastructure\bin\Debug\net6.0\MusicApp.Application.pdb
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.Infrastructure\bin\Debug\net6.0\MusicApp.Persistence.pdb
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.Infrastructure\bin\Debug\net6.0\MusicApp.Domain.pdb
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.Infrastructure\obj\Debug\net6.0\MusicApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.Infrastructure\obj\Debug\net6.0\MusicApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.Infrastructure\obj\Debug\net6.0\MusicApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.Infrastructure\obj\Debug\net6.0\MusicApp.Infrastructure.AssemblyInfo.cs
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.Infrastructure\obj\Debug\net6.0\MusicApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.Infrastructure\obj\Debug\net6.0\MusicApp.Infrastructure.csproj.CopyComplete
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.Infrastructure\obj\Debug\net6.0\MusicApp.Infrastructure.dll
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.Infrastructure\obj\Debug\net6.0\refint\MusicApp.Infrastructure.dll
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.Infrastructure\obj\Debug\net6.0\MusicApp.Infrastructure.pdb
+C:\Users\magoo\OneDrive\Рабочий стол\Zaka\FP_BackUp\MusicApp\MusicApp.Infrastructure\obj\Debug\net6.0\ref\MusicApp.Infrastructure.dll
